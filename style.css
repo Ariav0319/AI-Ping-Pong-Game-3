@@ -1,0 +1,35 @@
+.heading{
+    margin-top: 0;
+    width: 100%;
+    text-align: left;
+}
+.heading button{
+    float: right;
+}
+body{
+    text-align: center;
+}
+#start{
+    font-size: 15px;
+}
+.steps{
+    font-size: 20px;
+    color: black;
+}
+.copy_right_footer{
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    line-height: 3;
+    color: white;
+}
+#canvas{
+    border: 2px dotted white;
+    border-radius:10px;
+    margin-top:130px;
+    box-shadow: 5px 5px 5px white;
+    width: 485px;
+    height: 385px;
+}
